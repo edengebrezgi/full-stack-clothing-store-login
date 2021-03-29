@@ -1,0 +1,16 @@
+body{
+  padding-top:80px;
+  word-wrap:break-word;
+}
+img{
+  height: 200px;
+}
+.jumbotron, body{
+  background-image: linear-gradient( cyan, white);
+  background-repeat: no-repeat;
+}
+.btn-default, .btn{
+  background: transparent !important;
+  border-radius: 20px !important;
+  color: black !important;
+}
